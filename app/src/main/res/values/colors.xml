@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="splash">#Df0008</color>
+    <color name="unseclet">#b0b0b0</color>
+    <color name="seclet" >#444444</color>
+    <color name="title">#333333</color>
+    <color name="onefragment_btn_background">#ffffff</color>
+    <color name="twofragment_seclet">#000000</color>
+    <color name="twofragment_unseclet">#c0c0c0</color>
+    <color name="twofragment_twolistview">#F4F4F4</color>
+</resources>

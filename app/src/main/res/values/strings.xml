@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YOHODemo</string>
+    <string name="one">首页</string>
+    <string name="two">分类</string>
+    <string name="tree">逛</string>
+    <string name="four">购物车</string>
+    <string name="five">我的</string>
+    <string name="twofragment_one">品类</string>
+    <string name="twofragment_two">品牌</string>
+    <string name="twofragment_three">关注</string>
+    <string name="twofragment_boy">Boy</string>
+    <string name="twofragment_girl">Girl</string>
+    <string name="twofragment_life">Lifestyle</string>
+    <string name="hot">热门品牌</string>
+</resources>
